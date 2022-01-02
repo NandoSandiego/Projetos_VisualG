@@ -1,6 +1,22 @@
-algoritmo "semnome"
+algoritmo "soma_2_numeros"
 
 //Apertar: ctrl + space
+
+//Operadores Aritméticos
+// + Adição
+// - Subtração
+// * Multiplicação
+// / Divisão
+// \ Divisão inteira
+// ^ Exponenciação
+// % resto da divisão
+
+//Ordem de precedencia:
+// 1º - () parenteses
+// 2º - ^ Exponenciação
+// 3º - * ou / Multiplicação ou divisão
+// 4º - + ou - soma ou subtração
+//
 var
 
 num1,num2, res : real
