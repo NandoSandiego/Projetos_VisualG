@@ -18,15 +18,15 @@ algoritmo "soma_2_numeros"
 // 4º - + ou - soma ou subtração
 
 // FUNÇÕES ARITMÉTICAS
-// abs
-// exp
-// int
-// RaizQ
-// PI
-// sen
-// cos
-// tan
-// GraupRad
+// Abs - valor absoluto
+// exp - exponenciação
+// int - Valor inteiro
+// RaizQ - Raiz Quadrada
+// PI - Retorna PI
+// sen - sen(rad)
+// cos - cos(rad)
+// tan - tan(rad)
+// GraupRad - grau para radiano
 
 
 var
