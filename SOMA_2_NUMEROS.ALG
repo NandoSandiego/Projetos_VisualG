@@ -23,9 +23,9 @@ algoritmo "soma_2_numeros"
 // int - Valor inteiro
 // RaizQ - Raiz Quadrada
 // PI - Retorna PI
-// sen - sen(rad)
-// cos - cos(rad)
-// tan - tan(rad)
+// Sen - sen(rad)
+// Cos - cos(rad)
+// Tan - tan(rad)
 // GraupRad - grau para radiano
 
 
