@@ -7,6 +7,11 @@ algoritmo "estruturas-condicionais"
 //          .....
 // FimSe...
 
+// Identação
+// ctrl + G
+
+// **** Assim que abrir um 'Se' SEMPRE FECHAR COM 'FimSe'
+
 var
  ano_atual, ano_nasc, idade: real
 
