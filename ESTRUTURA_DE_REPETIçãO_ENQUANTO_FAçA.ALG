@@ -4,6 +4,8 @@ algoritmo "estrutura_de_repetição_enquanto_faça"
 //  bloco de comando
 //FimEnquanto
 
+// Teste Lógico no INICIO
+
 
 var
 cont_mais: inteiro
