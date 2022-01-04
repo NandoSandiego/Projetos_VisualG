@@ -1,4 +1,6 @@
 algoritmo "estruturas-condicionais"
+//  
+//  
 
 //Condicional Simples:
 // Se (...) entao
