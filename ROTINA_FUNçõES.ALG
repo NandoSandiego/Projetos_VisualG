@@ -1,4 +1,6 @@
 algoritmo "rotina_funções"
+//  
+//  
 
  // Funções são rotinas que podem retornar um resultado
  

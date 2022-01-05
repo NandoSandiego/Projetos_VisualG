@@ -1,6 +1,6 @@
 algoritmo "ex024"
 
-// Ler 7 valores e quantos são pares ?
+// Ler 7 valores e quantos são pares e mostrar as posições dos valores
 
 var
 
@@ -21,7 +21,12 @@ Para contador <-1 ate 7 faca
      
 FimPara
 
-Escreva("Existem ",num_pares," números pares")
+EscrevaL("Existem ",num_pares," números pares")
+
+Para contador <- 1 ate 7  faca
+     EscrevaL("num[",contador,"] <- ",num[contador])
+FimPara
+
 
 
 fimalgoritmo
