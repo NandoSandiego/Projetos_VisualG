@@ -1,4 +1,6 @@
 algoritmo "estruturas_repetiçao_para_faca"
+//  
+//  
 
 // Para variavel <- inicio ate fim [passo salto] faca
 // Bloco
